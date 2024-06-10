@@ -1,0 +1,30 @@
+{
+    "name": "logtalk-extension-pack",
+    "displayName": "Logtalk Extension Pack",
+    "version": "1.0.0",
+    "preview": true,
+    "publisher": "LogtalkDotOrg",
+	"icon": "images/logtalk.png",
+	"license": "MIT",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "description": "Recommended extensions for Logtalk development.",
+    "categories": [ "Extension Packs" ],
+    "extensionPack": [
+		"logtalkdotorg.logtalk-for-vscode",
+        "ms-vscode.live-server",
+		"ms-toolsai.jupyter"
+	],
+    "authors": [
+        {
+            "name": "Paulo Moura",
+            "email": "pmoura@logtalk.org",
+            "url": "https://github.com/pmoura"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LogtalkDotOrg/logtalk-extension-pack.git"
+    }
+}
