@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.0]
+
+* Add "Allure Support" extension.
+
 ## [1.0.1]
 
 * Link to the individual extensions.
