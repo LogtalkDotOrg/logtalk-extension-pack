@@ -1,7 +1,7 @@
 {
     "name": "logtalk-extension-pack",
     "displayName": "Logtalk Extension Pack",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "preview": false,
     "publisher": "LogtalkDotOrg",
 	"icon": "images/logtalk.png",
@@ -14,6 +14,7 @@
     "extensionPack": [
 		"logtalkdotorg.logtalk-for-vscode",
         "ms-vscode.live-server",
+        "terrastruct.d2",
 		"ms-toolsai.jupyter",
         "qameta.allure-vscode"
 	],

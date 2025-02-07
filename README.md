@@ -8,6 +8,7 @@ Installing this pack automatically installs the following extensions:
 
 - [Logtalk for VSCode](https://marketplace.visualstudio.com/items?itemName=LogtalkDotOrg.logtalk-for-vscode) (language support)
 - [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) (preview of generated documentation and diagrams)
+- [D2](https://marketplace.visualstudio.com/items?itemName=terrastruct.d2) (preview of generated diagrams in d2 format)
 - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) (notebook development)
 - [Allure Support](https://marketplace.visualstudio.com/items?itemName=qameta.allure-vscode) (browsing test results)
 
